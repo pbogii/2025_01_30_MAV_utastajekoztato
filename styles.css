@@ -3,7 +3,13 @@ table, th, td {
     border-collapse: collapse
   }
   table {
-    width: 80%;
-    background-color: rgb(11, 165, 255);
-    color:rgb(252, 233, 233)
+    width: 80%; /* weboldal szélessége; */
+    background-color: rgb(11, 165, 255); /* háttérszín */
+    color:rgb(252, 233, 233);/* betűszín */
+    font-family: 'Courier New';
+    font-size: 30px;
+
+}
+th {
+    background-color: rgb(58, 71, 253);
 }
