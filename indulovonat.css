@@ -6,7 +6,7 @@ table{
     width: 80%;
     background-color: rgb(124, 155, 241);
     color: white;
-    font-family:'Lucida Sans';
+    font-family:'Courier New';
     font-size:30px;
 }
 th {
@@ -14,4 +14,11 @@ th {
 }
 .sotet{
     background-color: rgb(29, 67, 235);
+}
+#kesobb{
+    background-color: red;
+}
+p{
+    font-size: 50px;
+    font-family: 'Courier New';
 }
