@@ -9,11 +9,11 @@ Ez a projekt egy egyszerű webes felületet biztosít a MÁV vonatindulások és
 - 🎨 Felhasználóbarát, letisztult dizájn
 
 ### 🚀 Használat
-Egyszerűen nyisd meg a `https://juhasz-szabolcs.github.io/2025_01_30_MAV_utastajekoztato/` weboldalt a böngészőben, és a rendszer betölti az aktuális adatokat.
+Egyszerűen nyisd meg a `https://github.com/pbogii/2025_01_30_MAV_utastajekoztato` weboldalt a böngészőben, és a rendszer betölti az aktuális adatokat.
 #### 🌍 Élő demó
 
 A projekt élőben megtekinthető az alábbi linken:  
-[🔗 MÁV Utastájékoztató](https://juhasz-szabolcs.github.io/2025_01_30_MAV_utastajekoztato/)
+[🔗 MÁV Utastájékoztató](https://github.com/pbogii/2025_01_30_MAV_utastajekoztato)
 
 ### 🏗️ Alap HTML szerkezet
 ```html
