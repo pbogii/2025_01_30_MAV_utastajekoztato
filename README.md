@@ -3,19 +3,19 @@
 Ez a projekt egy egyszerű táblázat amelyet **HTML** és **CSS** segítségével hoztam létre. Könnyen kezelhető és átlátható ezmiatt felhasználó barát. ٩(◕‿◕｡)۶
 
 
-### 📌 Funkciók
-- 🚉 Induló és érkező vonatok listázása táblázatban
-- ⏰ Állomás, indulási és érkezési idők megjelenítése
-- 🎨 Felhasználóbarát, letisztult dizájn
+### Funkciók (*≧ω≦*)	
+- vonatok indulása, érkezése
+- állomások, vonatok indulási vágányának száma
+- letisztult, egyszerű kinézet
 
-### 🚀 Használat
-Egyszerűen nyisd meg a `https://github.com/pbogii/2025_01_30_MAV_utastajekoztato` weboldalt a böngészőben, és a rendszer betölti az aktuális adatokat.
-#### 🌍 Élő demó
+### Használat
+Megnyitható a : `https://pbogii.github.io/2025_01_30_MAV_utastajekoztato/` linken. Egyszerűen eligazodható, átlátható weboldal. (*￣▽￣)b
+#### Élő demó (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
-A projekt élőben megtekinthető az alábbi linken:  
-[🔗 MÁV Utastájékoztató](https://github.com/pbogii/2025_01_30_MAV_utastajekoztato)
+A projekt élőben kipróálható az alábbi linken:  
+[ MÁV Utastájékoztató](https://pbogii.github.io/2025_01_30_MAV_utastajekoztato/)
 
-### 🏗️ Alap HTML szerkezet
+### Alap HTML szerkezet
 ```html
 <!DOCTYPE html>
 <html lang="hu">
@@ -45,7 +45,7 @@ A projekt élőben megtekinthető az alábbi linken:
 </html>
 ```
 
-## 🎨 CSS Stílusok
+## CSS Stílusok
 ```css
 body {
     font-family: Arial, sans-serif;
@@ -60,8 +60,8 @@ table {
 }
 ```
 
-### 🔧 Fejlesztési lehetőségek
-- [ ] 🔄 Dinamikus adatbetöltés API-n keresztül
-- [ ] 🔍 Keresési és szűrési lehetőségek
-- [x] 📱 Reszponzív megjelenítés mobileszközökre
+### Fejlesztési lehetőségek
+- [ ] Igaz adatok lekérése és ezeknek időhöz fűzött megjelenítése
+- [ ] Keresési és szűrési lehetőségek mint pl.: menetrendek.hu-n
+- [x] Interaktívabb megjelenés
 
