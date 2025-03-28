@@ -1,6 +1,6 @@
 ## MÁV utastájékoztató
 
-Ez a projekt egy egyszerű webes felületet biztosít a MÁV vonatindulások és érkezések megjelenítésére. A weboldal **HTML** és **CSS** segítségével készült, és egy táblázatos formátumban jeleníti meg az aktuális menetrendet.
+Ez a projekt egy egyszerű táblázat amelyet **HTML** és **CSS** segítségével hoztam létre. Könnyen kezelhető és átlátható ezmiatt felhasználó barát. ٩(◕‿◕｡)۶
 
 
 ### 📌 Funkciók
